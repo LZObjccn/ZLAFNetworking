@@ -1,0 +1,6 @@
+framework module ZLAFNetworking {
+  umbrella header "ZLAFNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}

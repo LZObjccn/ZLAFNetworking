@@ -1,0 +1,22 @@
+{
+  "name": "ZLAFNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of ZLAFNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lizizhen/ZLAFNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lizizhen": "lizizhen@syswin.com"
+  },
+  "source": {
+    "git": "https://github.com/lizizhen/ZLAFNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZLAFNetworking/Classes/**/*"
+}

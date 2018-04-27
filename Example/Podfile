@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZLAFNetworking_Example' do
+  pod 'ZLAFNetworking', :path => '../'
+
+  target 'ZLAFNetworking_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end

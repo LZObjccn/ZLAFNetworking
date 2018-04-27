@@ -1,0 +1,6 @@
+framework module Pods_ZLAFNetworking_Tests {
+  umbrella header "Pods-ZLAFNetworking_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
